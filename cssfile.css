@@ -1,0 +1,40 @@
+html{
+height: 100%;
+}
+
+body {
+color: white;
+background-color: black;
+min-height: 100%;
+display: flex;
+flex-direction: column;
+}
+
+header {
+border: 5px outset gray;
+text-align: center;
+}
+
+div.content {
+padding: 30px 80px 30px 80px;
+}
+
+div.popularGames {
+width: 500px;
+float: left;
+}
+
+div.about {
+width: 1000px;
+float: left;
+}
+
+footer {
+padding: 1px 1px 1px 1px;
+background-color: gray;
+clear: both;
+text-align: center;
+
+margin-top: auto;
+}
+
