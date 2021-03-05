@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Stuyvesant Pro Gaming</title>
+	</head>
+
+
+	<body>
+			<nav>
+				<li> Not the official webpage as of now </li> 
+			</nav>
+<br>
+			<header>
+				<h1>Stuyvesant Professional Gaming</h1>
+			</header>
+	
+		<div class="content">
+			<div class="popularGames">
+				<h2> Current popular games at Stuyvesant:</h2>
+					<ol>
+						<li> League of Legends </li>
+						<li> COD Warzone </li>
+						<li> Dota 2 </li>
+						<li> Fortnite </li>
+						<li> Minecraft </li>
+						<li> Valorant </li>
+					</ol>
+			</div>
+			<div class="about">
+				<h1> About us: </h1>
+				<h2> Who are we?</h2>
+					<p>We're a growing community that hopes to unite all the gamers at Stuyvesant! Stuyvesant is known for its incredibly bright students but we don't all just study all day. Gaming is now considered a sport
+					on its own as well and we hope to connect everyone across the school. Come join us and have fun!</p>
+				<h2> Competitions</h2>
+					<p> We formally have not started any competitions and currently are looking for people to gather as a community rather than play tournaments against each other. There will never be any entry fees
+				for any known competitions but there will be pool prizes for the winners!</p>
+				<h2> How to enter competitions </h2>
+					<p> There are currently no active compeitions. This section will be updated as soon as one is created.</p>
+			<hr/>
+			</div>
+		</div>
+
+		<h4> What games do you play? Tell us <a href="https://www.google.com/">here</a>. This will shape the current popular games list.</h4>
+
+		<footer>
+		<p>Stuyvesant Professional Gaming</p>
+		</footer>
+	</body>
+</html>
